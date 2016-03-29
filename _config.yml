@@ -1,0 +1,28 @@
+name: Solid Rock Church
+favicon: null
+layout_spectrum: 0.5338705067988485
+typography_spectrum: 0.7233437402173877
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.019286784809082747
+  lightness: 0.67048145737499
+  saturation: 0.6008902755565941
+  rhythmicContrast: 0.9761160262860358
+purpose: []
