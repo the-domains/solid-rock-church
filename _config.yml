@@ -1,7 +1,7 @@
 name: Solid Rock Church
 favicon: null
-layout_spectrum: 0.5338705067988485
-typography_spectrum: 0.7233437402173877
+layout_spectrum: 0.8815
+typography_spectrum: 0.64242
 title: Solid Rock Church
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#ffffff'
+    - '#4f6d95'
+    - '#354654'
+    - '#9bbcd9'
   brandStrength: 0.019286784809082747
   lightness: 0.67048145737499
   saturation: 0.6008902755565941
